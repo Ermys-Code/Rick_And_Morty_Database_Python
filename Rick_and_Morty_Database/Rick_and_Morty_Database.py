@@ -1,3 +1,5 @@
+#--MADE BY Ermys-Code--#
+
 #----------IMPORTS----------#
 import requests
 
